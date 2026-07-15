@@ -1,0 +1,15 @@
+[project]
+name = "compant-sales-Brochure-generator"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+dependencies = [
+    "python-dotenv",
+    "selenium",
+    "beautifulsoup4",
+    "requests",
+    "google-generativeai",
+    "ipykernel>=7.3.0",
+    "openai>=2.45.0",
+    "gradio>=6.20.0",
+]
